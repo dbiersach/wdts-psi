@@ -1,2 +1,2 @@
-# wdts-psi
-WDTS Pathways Summer Institute
+# WDTS Pathways Summer Institute
+## Using Python and Google Colab
